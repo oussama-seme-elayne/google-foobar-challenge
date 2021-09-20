@@ -1,4 +1,4 @@
-Bunny Worker Locations -LEVEL 1
+Bunny Worker Locations -LEVEL 2
 ====================
 
 The LAMBCHOP doomsday device takes up much of the interior of Commander Lambda's space station, and as a result the prison blocks have an unusual layout. They are stacked in a triangular shape, and the bunny prisoners are given numerical IDs starting from the corner, as follows:
