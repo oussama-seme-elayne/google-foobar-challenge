@@ -21,4 +21,22 @@ Languages
 ==========
 To provide a Python solution, edit solution.py
 
+Test cases
+==========
+
+```python3
+Inputs:
+    (int) x = 3
+    (int) y = 2
+Output:
+    9
+
+Inputs:
+    (int) x = 5
+    (int) y = 10
+Output:
+    96
+```
+
+
 
